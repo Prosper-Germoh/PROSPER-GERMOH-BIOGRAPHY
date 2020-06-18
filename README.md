@@ -1,2 +1,37 @@
-# PROSPER-GERMOH-BIOGRAPHY
-Prosper Germoh Tanchua October 10/1992,is from Bamessing-Ndop- Bamenda-Cameroon but now based in Douala-Cameroon is a talented gospel singer,songwriter,composer,and performer is the brain behind ”THE RANSOM WORSHIPPERS" ,a vision that is dedicated to raising people to worship God in spirit and in truth. The Bamenda-Cameroonian singer is no doubt an accomplished music minister,whose songs are filled with the divine presence of,with great lyrical depth and inspiration and great message of hope for our generation.Prosper(@ransomstar)has also ministered on the same platform with great inter national Gospel singers.since stepping into the gospel podium, the Ransom gospel music Ltd has continued to carve a niche for himself by marking the beginning of a new worship trend in Africa. He has two solid musical albums titled; "HOUR OF GLORY" which is made up of eleven tracks including; ARISE AND SHINE, A MIRACLE IN YOUR LIFE, SHOW US YOUR GLORY, LE FILS DE DIEU,AMEND YOUR WAY,...and "THE UNLIMITED GOD" which is performed by Prosper Germoh and his wife ZENOBIA GERMOH made up of ten tracks including; EXALT HIM,DANCE IN THE HOLY GHOST,MIGHTY GOD,MORE THAN BELIEVABLE, SING ALOUD,I SURRENDER ALL,PERSONNE NE COMME TOI,I NEED YOU MORE,LE NOM DE JESUS,T'ADORER...  Officialsite: http://www.prospergermohworship.com. Facebook page: Prosper Germoh/ZENOBIA Germoh  YouTube: Prosper Germoh/ZENOBIA Germoh  Histogram: Prosper Germoh/ZENOBIA Germoh  Twitter: Prosper Germoh/ZENOBIA Germoh  Google plus: Prosper Germoh/ZENOBIA Germoh  Tublr:Prosper Germoh/Zenobia Germoh  SoundCloud:Prosper Germoh/Zenobia Germoh  MixCloud:Prosper Germoh  LinkedIn: Prosper Germoh  The Douala-based gospel artiste is happily married to Queen ZENOBIA GERMO GABTIWOH(@gispelstar).Background and backbone of Prosper Germoh (@ransomstar)  Zenobia Germoh was(born October 5,1993)in the TATIYORK'S family of Baba1-Bamenda-Cameroon.A great gospel music minister and the backbone of @ransomstar. She's highly talented and God fearing the main lead of "The Ransom Worshippers".She has four credit song from THE UNLIMITED GOD including ;I SURRENDER ALL,MORE THAN BELIEVABLE,MIGHTY GOD AND I NEED YOU MORE.Her music ministry has blessed so many lives that has given her the name "@gospelstar". She has performed in many programs with great international gospel musicians.  Prosper Germoh is the last born of six children,born to Tanchua Ngeh and Juliana Nyianeh.He’s married to Queen ZENOBIA GERMOH GABTIWOH,who is also a music minister and they reside in Douala,Cameroon.Prosper is an award winning African gospel Singer,Songwriter, composer and performer,who has been in fulltime worship/praise ministry since 2009.He is a revolutionary force,a worshiper,a praise singer and is known as a great music leader and director in praise/worship .He Leads a choir under Full Gospel Mission Cameroon and also the founder of "THE RANSOM WORSHIPPERS" a group of three spirit filled gospel singers that have a burning burden for soul winning and discipleship that earned him then"@ransomstar"extra ordinary,by the grace of God, his life and worship is finding a place in a larger body of Christ.Through his worship ministry, revival that is already sweeping a nation and globe,engulfing the earth with the spirit of worship and a ca… : give and account one day.He is playing out the script of his life with,and a huge unusual dose of Gods power and presence. Prosper truly practices what he sings and preaches having a prayer cell group called "The Ransom Prayer Cell" located at Grand Mollen,Douala,CameroonthatholdseveryMondaysfrom6pmCameroontime. Prosper Germoh brings God's presence to any event and has be come a brand,a model and image of hope and inspiration,raising a bunch of radical Gospel Stars and a empire of worshipers/praise singers..Prosper Germoh for many years now has help ....
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Prosper-Germoh/PROSPER-GERMOH-BIOGRAPHY/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prosper-Germoh/PROSPER-GERMOH-BIOGRAPHY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
